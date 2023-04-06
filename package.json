@@ -1,0 +1,15 @@
+{
+  "name": "aaaaaaaaaaaa",
+  "version": "1.0.0",
+  "description": "kfjglf",
+  "main": "tps1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typescript": "^5.0.3"
+  }
+}
